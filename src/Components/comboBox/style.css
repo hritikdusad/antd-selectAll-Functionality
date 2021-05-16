@@ -1,0 +1,4 @@
+.remove-overflow > div > div {
+    overflow: hidden !important;
+    display: ruby !important;
+}
